@@ -16,6 +16,13 @@ Laravel 11 製の受注管理 → 請求書発行システムです。
 - MySQL 8.0+
 - Node.js 20+ / npm
 
+## 画面
+
+![ダッシュボード](docs/screenshots/dashboard.png)
+![受注一覧](docs/screenshots/orders.png)
+![受注登録](docs/screenshots/orders-create.png)
+![請求書一覧](docs/screenshots/invoices.png)
+
 ## セットアップ
 
 ```bash
